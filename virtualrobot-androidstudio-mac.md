@@ -7,13 +7,13 @@
 2. Run the installers for each.
     > If macOS complains that the installer is not signed by an identified developer, you may need to override it. See [Apple's support page](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) for details.
 
-    ![](resources/install-git.png)
+    ![](assets/images/install-git.png)
 
 ## Installing Android Studio
 1. Download the [Android Studio installer](https://github.com/panthera2021/setup-instructions-mac/releases/download/downloads/android-studio-2020.3.1.23-mac.dmg).
 2. Open the installer, and drag the "Android Studio" icon into the "Applications" folder. **ONLY DO THIS ONCE!** Close the installer.
 
-    ![](resources/drag-android-studio.png)
+    ![](assets/images/drag-android-studio.png)
 
 4. Open the newly installed Android Studio app.
     > See [Open Apps and Documents on Mac](https://support.apple.com/guide/mac-help/open-apps-and-documents-mchlp1014/10.14/)
@@ -21,18 +21,18 @@
 
 ## Loading the Virtual Robot project
 1. In Android Studio, select "Get from VCS".
-    ![](resources/get-from-vcs.png)
+    ![](assets/images/get-from-vcs.png)
 2. Select the GitHub tab.
 3. Add a GitHub token
     1. Select "Use token..."
-        ![](resources/use-token.png)
+        ![](assets/images/use-token.png)
     2. Select "Generate..."
     3. It will open the GitHub token creation page.
     4. Leave everything the same except the **Expiration**, set this to *"No expiration"*. You may need to change the **Note** section if you have another token with the same name.
-        ![](resources/setup-token.png)
+        ![](assets/images/setup-token.png)
     5. Scroll to the bottom and select "Generate token".
     6. Copy the resulting token (`ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX`).
-        ![](resources/copy-token.png)
+        ![](assets/images/copy-token.png)
     7. In Android Studio, paste this token and click "Log In".
 4. In the list of repositories, select `panthera2021/virtual_robot`.
 5. Click "Clone".
