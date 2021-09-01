@@ -1,2 +1,2 @@
 # Panthera Robótica Tutorials
-1. [Virtual Robot Setup Instructions for macOS](virtualrobot-mac)
+1. [Setup Virtual Robot in Android Studio on macOS](virtualrobot-androidstudio-mac/virtualrobot-androidstudio-mac.md)
