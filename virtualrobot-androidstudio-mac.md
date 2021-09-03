@@ -34,5 +34,6 @@
     6. Copy the resulting token (`ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX`).
         ![](assets/images/copy-token.png)
     7. In Android Studio, paste this token and click "Log In".
-4. In the list of repositories, select `panthera2021/virtual_robot`.
-5. Click "Clone".
+4. In the list of repositories, select your fork of virtual robot (`virtual-robot` or similar).
+    > It is recomended that you clone your own *personal* fork, not the `panthera2021/virtual-robot` repo because you need to do the tutorial by yourselves.
+6. Click "Clone".
