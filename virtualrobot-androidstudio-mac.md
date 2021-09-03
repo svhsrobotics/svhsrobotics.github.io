@@ -1,7 +1,7 @@
 # Setup Virtual Robot in Android Studio on macOS
 
 ## Installing dependencies
-1. Download [git](https://github.com/panthera2021/setup-instructions-mac/releases/download/downloads/git-2.6.2-intel-universal-mavericks.pkg), [java](https://github.com/panthera2021/setup-instructions-mac/releases/download/downloads/amazon-corretto-8.302.08.1-macosx-x64.pkg), and [360Controller](https://github.com/panthera2021/setup-instructions-mac/releases/download/downloads/Install360Controller.pkg).
+1. Download [git](https://github.com/panthera2021/panthera2021.github.io/releases/download/virtualrobot-androidstudio-mac/git-2.6.2-intel-universal-mavericks.pkg), [java](https://github.com/panthera2021/panthera2021.github.io/releases/download/virtualrobot-androidstudio-mac/amazon-corretto-8.302.08.1-macosx-x64.pkg), and [360Controller](https://github.com/panthera2021/panthera2021.github.io/releases/download/virtualrobot-androidstudio-mac/Install360Controller.pkg).
     > 360Controller WILL NOT install on macOS Big Sur or newer.
 
 2. Run the installers for each.
@@ -10,7 +10,7 @@
     ![](assets/images/install-git.png)
 
 ## Installing Android Studio
-1. Download the [Android Studio installer](https://github.com/panthera2021/setup-instructions-mac/releases/download/downloads/android-studio-2020.3.1.23-mac.dmg).
+1. Download the [Android Studio installer](https://redirector.gvt1.com/edgedl/android/studio/install/2020.3.1.24/android-studio-2020.3.1.24-mac.dmg).
 2. Open the installer, and drag the "Android Studio" icon into the "Applications" folder. **ONLY DO THIS ONCE!** Close the installer.
 
     ![](assets/images/drag-android-studio.png)
