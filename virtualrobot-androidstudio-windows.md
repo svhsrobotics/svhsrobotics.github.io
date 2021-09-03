@@ -13,7 +13,7 @@
 
     ![](assets/images/virtualrobot-androidstudio-windows/install-androidstudio.png)
 
-4. Open the newly installed Android Studio app.
+4. Open the newly installed Android Studio program.
 5. In the setup helper, select the "Standard" installation type. Leave all of the default settings.
 
     ![](assets/images/virtualrobot-androidstudio-windows/androidstudio-download-components.png)
